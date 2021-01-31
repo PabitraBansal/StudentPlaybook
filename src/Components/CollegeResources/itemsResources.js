@@ -1,4 +1,4 @@
-import addItem from "../../Assets/SVG_for_cards/addItem.svg";
+const addItem = "https://cdn.statically.io/gh/PabitraBansal/StudentPlaybook/6d20d536/src/Assets/SVG_for_cards/addItem.svg";
 import ResourceCards from "./resourceCards"
 import ResourceCards_Mix from "./resourceCards2"
 import ResourceCards_Small from "./resourceCards3"
