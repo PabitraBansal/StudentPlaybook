@@ -18,10 +18,10 @@ import { useStateValue } from "../StateProvider";
 import { Link } from "react-router-dom";
 
 // import Sticky from "react-sticky-el";
-import logoWhite from "../Assets/SVG/Asset1.svg";
-import logoColored from "../Assets/SVG/Asset2.svg";
+// import logoWhite from "../Assets/SVG/Asset1.svg";
+// import logoColored from "../Assets/SVG/Asset2.svg";
 
-import Sticky from "react-sticky-el";
+// import Sticky from "react-sticky-el";
 
 import { createMuiTheme, ThemeProvider } from "@material-ui/core/styles";
 // Icons
